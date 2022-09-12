@@ -3,7 +3,6 @@
 import board
 import neopixel
 import RPi.GPIO as GPIO
-import time
 
 # How many pixels are in the WS2812b strip?
 MAX_PIXELS = 102
