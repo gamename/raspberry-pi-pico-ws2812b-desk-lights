@@ -1,4 +1,4 @@
-Raspberry Pi-controlled collection of desk lights
+Raspberry Pi Pico-controlled collection of desk lights
 
 # OVerview
 
