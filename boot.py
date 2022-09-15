@@ -26,5 +26,7 @@ pixels.brightness = BRIGHTNESS
 while True:
     if dark.value():
         pixels.fill(BLUE)
+        pixels.write()
     else:
         pixels.fill(OFF)
+        pixels.write()
