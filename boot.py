@@ -1,7 +1,6 @@
 """
 This is a simple config to light a strip of ws2812b LEDs strategically located behind my desk.
 """
-import time
 from neopixel import NeoPixel
 from machine import Pin
 
