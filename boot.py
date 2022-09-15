@@ -13,14 +13,14 @@ BRIGHTNESS = 0.5
 
 # Which pin controls the light strip?
 PIXEL_PIN = Pin(0)
-DARKNESS_DETECTION_PIN = 1
+LIGHT_SENSOR_PIN = 1
 
 # Define the color we want to use for the light strip
 BLUE = (0, 0, 255)
 OFF = (0, 0, 0)
 
 pixels = NeoPixel(PIXEL_PIN, PIXEL_COUNT)
-dark = Pin(DARKNESS_DETECTION_PIN, Pin.IN, Pin.PULL_DOWN)
+dark = Pin(LIGHT_SENSOR_PIN, Pin.IN, Pin.PULL_DOWN)
 
 pixels.brightness = BRIGHTNESS
 
