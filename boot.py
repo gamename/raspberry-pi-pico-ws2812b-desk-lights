@@ -3,12 +3,16 @@ This is a simple config to light a strip of ws2812b LEDs strategically located b
 """
 from neopixel import NeoPixel
 from machine import Pin
+import time
 
 # How many pixels do we have?
 PIXEL_COUNT = 172
 
 # How bright do we want to display?
-BRIGHTNESS = 0.5
+BRIGHTNESS = 0.5  # 50% brightness
+
+# How long between tests should we wait?
+SLEEP_SECONDS = 60
 
 # Which pin controls the light strip?
 WS2812_CONTROL_PIN = Pin(0)
@@ -30,3 +34,4 @@ while True:
     else:
         pixels.fill(OFF)
         pixels.write()
+    time.sleep(SLEEP_SECONDS)
