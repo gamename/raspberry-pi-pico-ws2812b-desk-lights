@@ -24,9 +24,6 @@ dark = Pin(DARKNESS_DETECTION_PIN, Pin.IN, Pin.PULL_DOWN)
 
 pixels.brightness = BRIGHTNESS
 
-pixels.fill(OFF)
-pixels.write()
-
 while True:
     if dark.value():
         pixels.fill(BLUE)
