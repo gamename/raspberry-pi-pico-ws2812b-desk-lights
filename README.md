@@ -9,6 +9,8 @@ ambient lighting for my desk.
 
 # Diagram 
 
+# Parts List
+
 # Pictures 
 
 ![](.README_images/light-sensor.png)
