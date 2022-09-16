@@ -34,14 +34,14 @@ together with a Raspberry Pi Pico as the controller. There are two connections t
 20. [wire stripper](https://a.co/d/9J57B35)
 21. [wire clips](https://a.co/d/7ZC9Jue)
 22. [cable ties ](https://a.co/d/aNK4yg2)(to tie down power supply)
-23. crimp wire connectors
-24. crimping tool
-25. 1/2" drill bit
+23. [crimp wire connectors](https://a.co/d/28pP0oi)
+24. [crimping tool](https://a.co/d/gb0WfqY)
+25. [1/2" drill bit](https://a.co/d/ebvk1JH)
 26. drill (for holes in junction box)
-27. pico adapter
+27. [pico adapter](https://a.co/d/0HM1JB6)
 28. soldering iron (to assemble the pico on the adapter)
 29. solder 
-30. double-sided tape
+30. [double-sided tape](https://a.co/d/0xbPvjM)
 
 
 # Assembly Notes
