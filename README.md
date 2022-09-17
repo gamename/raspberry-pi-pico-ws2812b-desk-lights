@@ -30,24 +30,28 @@ together with a Raspberry Pi Pico as the controller. There are two connections t
 16. [shrink tube](https://a.co/d/7vEtkoZ) wire connectors
 17. [female](https://a.co/d/6TAin4S) jumper wires (red, green, white)
 18. [mac usbc-to-usb connector](https://a.co/d/hTGeQ3q) (for software updates)
-19. lighter (for shrink tubing)
+19. [lighter](https://a.co/d/2jGikx1) (for shrink tubing)
 20. [wire stripper](https://a.co/d/9J57B35)
 21. [wire clips](https://a.co/d/7ZC9Jue)
 22. [cable ties ](https://a.co/d/aNK4yg2)(to tie down power supply)
 23. [crimp wire connectors](https://a.co/d/28pP0oi)
 24. [crimping tool](https://a.co/d/gb0WfqY)
 25. [1/2" drill bit](https://a.co/d/ebvk1JH)
-26. drill (for holes in junction box)
+26. [drill](https://a.co/d/hFsUd1H) (for holes in junction box)
 27. [pico adapter](https://a.co/d/0HM1JB6)
-28. soldering iron (to assemble the pico on the adapter)
-29. solder 
+28. [soldering iron](https://a.co/d/jcC5rNq) (to assemble the pico on the adapter)
+29. [solder](https://a.co/d/1TV0jM2) 
 30. [double-sided tape](https://a.co/d/0xbPvjM)
+31. [PyCharm Professional](https://www.jetbrains.com/pycharm/promo/)
+32. [MicroPython Plugin](https://plugins.jetbrains.com/plugin/9777-micropython)
 
 
 # Assembly Notes
 
 
 # Pictures 
+
+![](.README_images/desk.png)
 
 ![](.README_images/light-sensor.png)
 
@@ -60,3 +64,4 @@ together with a Raspberry Pi Pico as the controller. There are two connections t
 ![](.README_images/external-power-supply-closeup2.png)
 
 ![](.README_images/light-strip-placement.png)
+
