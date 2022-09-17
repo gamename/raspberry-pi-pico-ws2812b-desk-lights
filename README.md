@@ -10,6 +10,8 @@ This is a simple ws2812b project using leftover parts from previous projects.  T
 together with a Raspberry Pi Pico as the controller. There are two connections to an external power supply.
 
 # Diagram 
+![](.README_images/diagram.png)
+
 
 # Parts List
 1. [pico](https://a.co/d/5P5XDf7)
