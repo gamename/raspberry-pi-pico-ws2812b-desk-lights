@@ -7,7 +7,8 @@ ambient lighting for my desk.
 
 # Technical Description
 This is a simple ws2812b project using leftover parts from previous projects.  There are 4 short strips daisy-chained
-together with a Raspberry Pi Pico as the controller. There are two connections to an external power supply.
+together with a Raspberry Pi Pico as the controller. There are two connections to an external power supply (see diagram).
+There is an attached light sensor, so it will only light at night.
 
 # Diagram 
 ![](.README_images/diagram.png)
@@ -17,7 +18,7 @@ together with a Raspberry Pi Pico as the controller. There are two connections t
 1. [pico](https://a.co/d/5P5XDf7)
 2. [power supply](https://a.co/d/iKgSWYm)
 3. [power chord](https://a.co/d/6uIREtZ)
-4. [wires](https://a.co/d/imWzLmc)
+4. [wire](https://a.co/d/imWzLmc)
 5. [ws2812b](https://a.co/d/gvlHaTj) strip
 6. [ws2812b adapter](https://a.co/d/0sc48VN) plugs
 7. [ws2812b plastic strip connectors](https://a.co/d/dTEdeK7)
@@ -49,7 +50,8 @@ together with a Raspberry Pi Pico as the controller. There are two connections t
 
 
 # Assembly Notes
-
+1. The double-sided tape is to secure the light strip to the back of the desk and the two screens.
+2. The jumper wires (item 17 above) are for the connection between the light sensor and the wire.
 
 # Pictures 
 
