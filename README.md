@@ -52,8 +52,8 @@ There is an attached light sensor, so it will only light at night.
 # Assembly Notes
 1. The double-sided tape is to secure the light strip to the back of the desk and the two screens.
 2. The jumper wires (item 17 above) are for the connection between the light sensor and the wire.
-3. Yes, you are _supposed_ to use a heat gun for the wire shrink-wrapped joiners (item 16). But I find the flame from a lighter (item 19),
-if *gently* applied, works better.
+3. Yes, you are supposed to use a heat gun for the wire shrink-wrapped joiners (item 16). But I find the flame
+from a lighter (item 19), if *gently* applied, works better.
 
 # Pictures 
 
